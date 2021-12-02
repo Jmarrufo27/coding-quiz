@@ -27,3 +27,7 @@ flex-direction: column;
 align-items: flex-start;
 border-left: 5px solid salmon;
 }
+
+button {
+    display: block;
+}
